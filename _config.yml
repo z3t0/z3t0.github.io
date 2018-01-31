@@ -4,10 +4,10 @@
 title: Rafi Khan
 description: Rafi Khan's blog
 keywords: Rafi Khan, blog, github, computers
-baseurl:  / 
-url: https://z3t0.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+baseurl: 
+# baseurl: http://127.0.0.1:4000 # when developing
+url: https://z3t0.github.io/
+img_path: /Jalpc/static/assets/img/blog 
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
