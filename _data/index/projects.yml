@@ -1,0 +1,29 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: IRremote
+  i18n: Arduino-IRremote
+  gh_user: z3t0
+  repo: Arduino-IRremote
+  img: /static/assets/img/landing/arduino_community.png
+  desc: This library enables you to send and receive using infrared signals on an Arduino.
+
+- name: zwm
+  i18n: zwm
+  gh_user: z3t0
+  repo: zwm
+  img: /static/assets/img/landing/macos.png
+  desc: An experimental macOS high level window manager similar to i3wm 
+
+- name: voxelmetaverse
+  i18n: voxelmetaverse
+  url: http://voxelmetaverse.com
+  img: /static/assets/img/landing/voxel.png
+  desc: This is an experimental WebGL voxel engine written in Javascript that I have worked on
+
+- name: shadow
+  li8n: shadow
+  gh_user: z3t0
+  repo: shadow
+  img: /static/assets/img/landing/sumobot.png
+  desc: My sumobot design for the 2017 myRobotRumble at SaskPolyTech

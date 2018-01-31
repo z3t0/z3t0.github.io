@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Git, Javascript, Front-end, Python, Arduino, C, CAD, Leadership, Teamwork
+percentage: 100, 80, 70, 90, 100, 60, 50, 80, 90
